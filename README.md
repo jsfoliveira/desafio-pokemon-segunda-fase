@@ -23,7 +23,7 @@ Boas práticas de programação e organização de projeto<br>
 
 ### Como rodar o código 💻
 - $git clone <link-do-repositório> <br>
-- $cd <nome-da-pasta>
+- $cd <-nome-da-pasta->
 - $npm install
-- $expo initi <nome-da-pasta>
+- $expo initi <-nome-da-pasta->
 - $npm start

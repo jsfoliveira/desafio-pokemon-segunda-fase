@@ -2,7 +2,7 @@ import React from "react";
 import { View, StyleSheet, TextInput, Image } from "react-native";
 
 const App = () => {
-  const [text, onChangeText] = React.useState("Buscar pokemon");
+  const [text, onChangeText] = React.useState("oiiin");
 
 
   return (
